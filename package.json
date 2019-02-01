@@ -1,0 +1,26 @@
+{
+  "name": "bigstack",
+  "version": "1.0.0",
+  "description": "my first full stack project",
+  "main": "minto.js",
+  "scripts": {
+    "start": "node minto.js"
+  },
+  "author": "abhi-chinni",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "bcrypt":"2.0.0",
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0",
+    "mongodb": "^3.1.13",
+    "mongoose": "^5.4.7",
+    "node-gyp": "^3.8.0",
+    "nodemon": "^1.18.9",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "validator": "^10.11.0"
+  }
+}
